@@ -48,7 +48,7 @@ As requisições aceitas são:
 ```JSON
 {
 	"name": "user 1",
-	"owner": "Rubens"
+	"email": "Rubens"
 }
 ```
 
